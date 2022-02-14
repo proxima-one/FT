@@ -22,6 +22,25 @@ To build run:
 ./build.sh
 ```
 
+## Deploying 
+
+### Near Dev Account
+```bash
+./deploy.sh dev 
+```
+
+### Near Testnet
+```bash
+./deploy.sh testnet
+```
+
+### Near Mainnet
+```bash
+./deploy.sh testnet
+```
+
+
+
 Using this contract
 ===================
 
